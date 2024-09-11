@@ -16,3 +16,9 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+.mb-negative-10 {
+  margin-bottom: -40px;
+}
+.warm-orange-overlay {
+  background: linear-gradient(to bottom, rgba(255, 204, 128, 0.7), rgba(255, 165, 0, 0.8)); 
+}

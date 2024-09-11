@@ -12,10 +12,17 @@ const config: Config = {
         '13': 'repeat(13, minmax(0, 1fr))',
       },
       colors: {
-        blue: {
-          400: '#2589FE',
-          500: '#0070F3',
-          600: '#2F6FEB',
+        sgsOrange: { // Define your custom color palette
+          50: '#fff5f0',    // Very light orange
+          100: '#fed7aa',   
+          200: '#fbb678',   
+          300: '#f99145',
+          400: '#f57c2a',
+          500: '#ff6302',   // Your primary SGS orange 
+          600: '#d95702',   // Slightly darker
+          700: '#a14502', 
+          800: '#6d3301',
+          900: '#3a1b01',   // Very dark orange 
         },
       },
     },
